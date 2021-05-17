@@ -1,0 +1,2 @@
+# LiteNote
+ A PHP notebook
